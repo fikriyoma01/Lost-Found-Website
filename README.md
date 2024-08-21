@@ -7,12 +7,5 @@ Dokumentasi lengkap proyek: [sini](https://github.com/fikriyoma01/Lost-Found-Web
 ![alt text](https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/Portal.png?raw=true)
 ![alt text](https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/Dashboard.png?raw=true)
 
-## Daftar Isi
-
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Fitur-Fitur Utama](#fitur-fitur-utama)
-- [Contoh Kode](#contoh-kode)
-- [Dokumentasi API](#dokumentasi-api)
-- [Konfigurasi](#konfigurasi)
-- [Lisensi](#lisensi)
+## End-point Backend
+![alt text](https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/end-point.png)
