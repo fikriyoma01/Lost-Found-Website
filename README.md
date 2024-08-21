@@ -8,4 +8,4 @@ Dokumentasi lengkap proyek: [sini](https://github.com/fikriyoma01/Lost-Found-Web
 ![alt text](https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/Dashboard.png?raw=true)
 
 ## End-point Backend
-![alt text](https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/end-point.png)
+<img src="https://github.com/fikriyoma01/Lost-Found-Website/blob/main/fig/end-point.png" alt="End-point Backend" width="50%">
